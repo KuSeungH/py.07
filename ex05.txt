@@ -1,0 +1,3 @@
+dkssu
+안녕
+/usr/local/bin/python3 "/Users/kuseunghyun/Documents/파일썬 교육/day07/quiz1.py"
